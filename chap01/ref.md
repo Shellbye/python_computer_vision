@@ -31,3 +31,18 @@ http://bj3s.pku.edu.cn/activity/subjects/lesson7.pdf
 
 # 1.4.3 形态学:对象计数
 类似图像分隔计数
+
+# 2.1 角点检测
+https://en.wikipedia.org/wiki/Corner_detection
+
+# 在图像间寻找对应点
+兴趣点描述子是分配给兴趣点的一个向量，描述该点附近的图像的表观信息。
+描述子越好，寻找到的对应点越好。
+我们用对应点或者点的对应来描述相同物体和场景点在不同图像上形成的像素点。
+
+图像的像素块由以该像素点为中心的周围矩形部分图像构成
+
+# 2.2 SIFT(Scale-Invariant Feature Transform，尺度不变特征变换)
+尺度空间(scale space)
+http://blog.csdn.net/zddblog/article/details/7521424
+
